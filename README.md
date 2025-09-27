@@ -1,5 +1,57 @@
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+1
+Enter Deposit Amount: 
+3600
+Money Deposited:3600.0
 
-<img width=<img width="931" height="671" alt="Screenshot 2025-09-27 162407" src="https://github.com/user-attachments/assets/4a433e56-f7b4-48de-a4e4-99abde4b21b8" />
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+2
+enter Amount to be withdrawn: 
+2450
+Withdrawn amount: 2450.0
 
-"722" height="640" alt="image" src="https://github.com/user-attachments/assets/700272de-6e33-44e9-86ea-7081fce6a1fe" />
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+2
+enter Amount to be withdrawn: 
+-900
+Error!!Amount must be positive to withdraw!!
 
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+1
+Enter Deposit Amount: 
+dhufjd
+Invalid input!! please enter only numbers
+
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+3
+Account Number: 1854
+Account Name: Krithi Acharya
+Account Balance: 6150.0
+
+----Your Bank Menu-----
+1. Deposit Amount
+2. Withdraw Amount
+3. Total Balance
+4. Exit
+4
+Thank you!!....exiting....
